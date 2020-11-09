@@ -15,7 +15,7 @@ The bank conducted survey of 5000 customers andcollected data. Objective is to u
 
 The feature selection is done with the help of correlation matrix, f_regression method to infer the relation of each feature with the dependent variables. 
 
-VIF (variance inflation method) is used to infer the relation of the independent variable with each other.
+VIF ( Variance Inflation Factor ) is used to infer the relation of the independent variable with each other.
 
 <h4>Modelling</h4>
 
