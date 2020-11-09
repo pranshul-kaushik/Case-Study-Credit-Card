@@ -1,9 +1,7 @@
 # Credit-card-linear-regression
 
 <h2>Objective </h2><br>
-
-the bank conducted survey of 5000 customers andcollected data. Objective is to understand what's driving the total spend(Primary Credit Card + Secondary Credit Card) of the customer. Given the factors, predict credit limit for the new applicants.
-
+The bank conducted survey of 5000 customers andcollected data. Objective is to understand what's driving the total spend(Primary Credit Card + Secondary Credit Card) of the customer. Given the factors, predict credit limit for the new applicants.
 
 In statistics, linear regression is a linear approach to modeling the relationship between a scalar response or dependent variable and one or more explanatory variables or independent variables. In our case the  dependent variables are "cardspent" and "card2spent".
 
@@ -32,6 +30,7 @@ Linear regression is used to train the model. The following features were select
 
 
 <h2>Data Dictionary :</h2><br>
+
 - age : Age in years 
 - carcatvalue : Primary vehicle price category
 - card2 : Secondary credit card
