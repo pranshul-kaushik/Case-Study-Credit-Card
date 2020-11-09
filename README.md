@@ -5,6 +5,7 @@ The bank conducted survey of 5000 customers andcollected data. Objective is to u
 
 
 <h4>ASSUMPTIONS</h4>
+
 - No Multicollinearity
 - No Heteroscedasticity 
 - No Auto correlation
