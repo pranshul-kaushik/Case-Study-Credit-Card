@@ -11,11 +11,15 @@ The bank conducted survey of 5000 customers andcollected data. Objective is to u
 - No Auto correlation
 - Residual should be normally distributed
 
+<h4>Data Analysis</h4>
+
 The feature selection is done with the help of correlation matrix, f_regression method to infer the relation of each feature with the dependent variables. 
 
 VIF (variance inflation method) is used to infer the relation of the independent variable with each other.
 
-The model can be further improved by keeping the R squared high and the difference between R squared and the adjusted R squared as low as possible otherwise it will indicate multicollinearity in our model. 
+<h4>Modelling</h4>
+
+The model need to have high R squared and the difference between R squared and the adjusted R squared as low as possible otherwise it will indicate multicollinearity in our model. 
 
 <h2>First Linear Model Summary :</h2>
 
