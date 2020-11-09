@@ -31,10 +31,9 @@ There were some Influential Points that where affecting the parameter of the Mod
 After Removing those Influential Points and satisfying the **Assumption**.
 
 <h2>Conclusion :</h2>
-Linear regression is used to train the model. The following features were selected to train the model i.e. these features are driving the total spend of the customer:
+Linear regression is used to train the model. The following features were selected to train the model i.e. these features are driving the total spend of the customer is mentioned below:
 
-
-<h2>Data Dictionary :</h2>
+**Feature that affecting total spend of Customers**
 
 - age : Age in years 
 - carcatvalue : Primary vehicle price category
