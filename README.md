@@ -37,14 +37,14 @@ Linear regression is used to train the model. The following features were select
 
 **Feature that affecting total spend of Customers**
 
-- age : Age in years 
-- carcatvalue : Primary vehicle price category
-- card2 : Secondary credit card
-- card2type : Designation of secondary credit card
-- card : Primary credit card
-- cardtype : Designation of primary credit card
-- debtinc : Debt to income ratio (x100)
-- lncreddebt : Log-credit card debt
-- lninc : Log-income
-- othdebt : Other debt in thousands
+- **age** : _Age in years_ 
+- **carcatvalue** : _Primary vehicle price category_
+- **card2** : _Secondary credit card_ (eg. Visa / Master Card)
+- **card2type** : _Designation of secondary credit card_ (eg. Gold / Silver / Bronze )
+- **card** : _Primary credit card_ (eg. Visa / Master Card)
+- **cardtype** : _Designation of primary credit card_ (eg. Gold / Silver / Bronze )
+- **debtinc** : _Debt to income ratio_ (x100)
+- **lncreddebt** : _Log-credit card debt_
+- **lninc** : _Log-income_
+- **othdebt** : _Other debt in thousands_
 
