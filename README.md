@@ -21,11 +21,14 @@ The model can be further improved by keeping the R squared high and the differen
 
 ![](LR-Model-1.png)
 
-There were some Influential Points that where affecting the parameter of the Model. After removing those points.
+**Assumption** voilated :- Residual is not normally distributed.
+There were some Influential Points that where affecting the parameter of the Model
 
 <h2>Final Linear Model Summary :</h2>
 
 ![](LR-Model-2.png)
+
+After Removing those Influential Points and satisfying the **Assumption**.
 
 <h2>Conclusion :</h2>
 Linear regression is used to train the model. The following features were selected to train the model i.e. these features are driving the total spend of the customer:
